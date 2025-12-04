@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<br><br>
 
 # Education
 
@@ -25,7 +25,7 @@ redirect_from:
 
 - Coursework: Differential Geometry, Topology, Analytics, Probability and Statistics
 
-
+<br><br>
 
 
 # Internship Experience
@@ -38,7 +38,7 @@ redirect_from:
 - Reviewed and analyzed regulatory comments and company responses on project reports from the Shanghai Stock Exchange; introduced an innovative method leveraging the PageRank algorithm to optimize fair value assessment of investment properties.
 - Drafted verification reports on domestic sales for Huzhou Industry Investment's commercial trade business; gathered and studied fundraising prospectuses to understand their standard content and structural framework.
 
-
+<br><br>
 
 
 # Project Experience
@@ -72,7 +72,7 @@ redirect_from:
 - Applied PageRank algorithm in Java to iteratively compute cafeteria scores, quantify popularity rankings, and analyze underlying influencing factors.
 
 
-
+<br><br>
 
 # Extracurricular Activities
 
@@ -108,7 +108,7 @@ redirect_from:
   </tbody>
 </table>
 
-
+<br><br>
 
 
 # Honors & Awards
@@ -134,7 +134,7 @@ redirect_from:
 - **Provincial Third Prize – Chinese Mathematics Competition**  
   December 2023
 
-
+<br><br>
   
   
 # Skills & Interests

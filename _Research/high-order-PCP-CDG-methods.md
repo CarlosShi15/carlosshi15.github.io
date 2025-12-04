@@ -1,3 +1,4 @@
+---
 title: "High-Order Physical-Constraint-Preserving CDG Methods"
 collection: Research
 type: "research"
@@ -6,6 +7,7 @@ venue: "Southern University of Science and Technology"
 supervisor: "Associate Prof.Kailiang Wu"
 date: 2025-12-01
 location: "Shenzhen"
+---
 
 
 # High-Order Physical-Constraint-Preserving CDG Methods for Special Relativistic Hydrodynamics

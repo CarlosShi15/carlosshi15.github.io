@@ -9,9 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-<br><br>
+<style>
+  .section-spacing {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .subsection-spacing {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .honor-item {
+    margin-bottom: 15px;
+  }
+  .skills-list li {
+    margin-bottom: 10px;
+  }
+</style>
+
+<div style="margin-top: 30px;"></div>
 
 # Education
+
+<div class="subsection-spacing"></div>
 
 ## **Southern University of Science and Technology**  
 *Shenzhen, China | September 2022 – June 2026 (Expected)*  
@@ -20,15 +39,18 @@ redirect_from:
 - Relevant Coursework: Mathematical Modeling, Nonparametric Statistics, Partial Differential Equations, Numerical Analysis  
 - SUSTech Outstanding Student Scholarship: First Prize (2023, **Top 5%**) / Second Prize (2024, **Top 10%**)
 
+<div class="subsection-spacing"></div>
+
 ## **University of Chinese Academy of Sciences – Sino-French Mathematics Summer School**  
 *Beijing, China | July 2025 – August 2025*  
 
 - Coursework: Differential Geometry, Topology, Analytics, Probability and Statistics
 
-<br><br>
-
+<div class="section-spacing"></div>
 
 # Internship Experience
+
+<div class="subsection-spacing"></div>
 
 ## **Xiangcai Securities Co., Ltd**  
 *Shanghai, China | July 2024 – August 2024*
@@ -38,10 +60,11 @@ redirect_from:
 - Reviewed and analyzed regulatory comments and company responses on project reports from the Shanghai Stock Exchange; introduced an innovative method leveraging the PageRank algorithm to optimize fair value assessment of investment properties.
 - Drafted verification reports on domestic sales for Huzhou Industry Investment's commercial trade business; gathered and studied fundraising prospectuses to understand their standard content and structural framework.
 
-<br><br>
-
+<div class="section-spacing"></div>
 
 # Project Experience
+
+<div class="subsection-spacing"></div>
 
 ## Nonparametric Approach to Modeling Gene Expression for Riboflavin Production in Bacillus subtilis
 *Team Member · Instructed by Assoc. Prof. Xin Chen | April 2025 – May 2025*
@@ -50,12 +73,16 @@ redirect_from:
 - Identified 41 key genes related to riboflavin biosynthesis using PCA with five-fold cross-validation; built SIM and PLM, applying kernel regression for nonlinear variables (LASSO) and linear models for others.
 - Compared statistical and machine learning models (random forest, neural networks) for performance and interpretability; performed SVM classification and LOESS/SIR analysis to explain enzyme-limited production.
 
+<div style="margin-top: 20px;"></div>
+
 ## Numerical Solutions to Nonlinear Allen–Cahn and Elliptic Equations
 *Team Member · Supervised by Prof. Jiang Yang*
 
 - Applied MATLAB to solve partial differential equations numerically, enhancing analytical and coding skills through two independent projects.
 - Solved elliptic equations using SOR iteration and Fast Fourier Transform (FFT) on a fixed grid, visualizing error distribution and second-order convergence.
 - Solved the nonlinear Allen–Cahn equation via FFT, incorporating a viscosity term into the difference scheme to ensure numerical stability.
+
+<div style="margin-top: 20px;"></div>
 
 ## Particle Swarm Optimization-Based Inversion of Global Thermal Conductivity in 2D Space Materials
 *Team Member · Mentored by Prof. Jingzhi Li*
@@ -64,6 +91,8 @@ redirect_from:
 - Simulated material thermal conduction in air to model temperature distribution over position and time; performed perturbation analysis on the heat conduction equation.
 - Generated 2D thermal distribution data in Python based on assumed parameters and applied particle swarm optimization to invert thermal conductivity coefficients that best fit temperature distributions.
 
+<div style="margin-top: 20px;"></div>
+
 ## Ranking Popularity: Applying PageRank to SUSTech Cafeterias
 *Team Member · Instructed by Prof. Jingzhi Li*
 
@@ -71,12 +100,11 @@ redirect_from:
 - Visualized survey data in MATLAB using a doubly stochastic matrix, demonstrating PageRank logic and weight distribution between "pages".
 - Applied PageRank algorithm in Java to iteratively compute cafeteria scores, quantify popularity rankings, and analyze underlying influencing factors.
 
-
-<br><br>
+<div class="section-spacing"></div>
 
 # Extracurricular Activities
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; margin-top: 20px; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th style="width:30%; padding:12px; border:1px solid #ddd;">Role</th>
@@ -108,43 +136,33 @@ redirect_from:
   </tbody>
 </table>
 
-<br><br>
-
+<div class="section-spacing"></div>
 
 # Honors & Awards
 
-- **Honorable Mention – Mathematical Contest in Modeling**  
-  May 2025  
+<div class="subsection-spacing"></div>
 
-- **Third Place – SUSTech College Cup Soccer Match**  
-  May 2025  
+<div class="honor-item">**Honorable Mention – Mathematical Contest in Modeling**<br>May 2025</div>
 
-- **Provincial Third Prize – Contemporary Undergraduate Mathematical Contest in Modeling**  
-  December 2024  
+<div class="honor-item">**Third Place – SUSTech College Cup Soccer Match**<br>May 2025</div>
 
-- **Successful Participant – Mathematical Contest in Modeling**  
-  May 2024  
+<div class="honor-item">**Provincial Third Prize – Contemporary Undergraduate Mathematical Contest in Modeling**<br>December 2024</div>
 
-- **Runner-up – SUSTech College Cup Soccer Match**  
-  May 2024  
+<div class="honor-item">**Successful Participant – Mathematical Contest in Modeling**<br>May 2024</div>
 
-- **Provincial Second Prize – Contemporary Undergraduate Mathematical Contest in Modeling**  
-  January 2024  
+<div class="honor-item">**Runner-up – SUSTech College Cup Soccer Match**<br>May 2024</div>
 
-- **Provincial Third Prize – Chinese Mathematics Competition**  
-  December 2023
+<div class="honor-item">**Provincial Second Prize – Contemporary Undergraduate Mathematical Contest in Modeling**<br>January 2024</div>
 
-<br><br>
-  
-  
+<div class="honor-item">**Provincial Third Prize – Chinese Mathematics Competition**<br>December 2023</div>
+
+<div class="section-spacing"></div>
+
 # Skills & Interests
 
-- **Rowing: Level 3 Amateur Certification**
-
-- **Soccer: Defensive midfielder**
-
-- **Programming & Tools: Proficient in MATLAB, Python, SPSS, Microsoft Office, Adobe Photoshop**
-
-- **Languages: Chinese (Native), English (Proficient)**
-
-
+<ul class="skills-list" style="list-style-type: none; padding-left: 0;">
+  <li>**Rowing:** Level 3 Amateur Certification</li>
+  <li>**Soccer:** Defensive midfielder</li>
+  <li>**Programming & Tools:** Proficient in MATLAB, Python, SPSS, Microsoft Office, Adobe Photoshop</li>
+  <li>**Languages:** Chinese (Native), English (Proficient)</li>
+</ul>

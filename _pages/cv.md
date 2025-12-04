@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-# \phantom{}
+
 
 # Education
 
@@ -27,7 +27,8 @@ redirect_from:
 - Coursework: Differential Geometry, Topology, Analytics, Probability and Statistics
 
 
-#
+<br><br>
+
 
 # Internship Experience
 

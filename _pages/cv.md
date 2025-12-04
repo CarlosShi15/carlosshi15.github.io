@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+#
 
 # Education
 
@@ -24,10 +24,10 @@ redirect_from:
 ## **University of Chinese Academy of Sciences – Sino-French Mathematics Summer School**  
 *Beijing, China | July 2025 – August 2025*  
 
-**Intensive Mathematics Program**  
 - Coursework: Differential Geometry, Topology, Analytics, Probability and Statistics
 
 
+#
 
 # Internship Experience
 
@@ -38,6 +38,9 @@ redirect_from:
 - Collected and analyzed financial data from 20+ target companies, leveraged mathematical tools to assist in comprehensive due diligence and corporate integrity verification processes, which support investment decision-making.
 - Reviewed and analyzed regulatory comments and company responses on project reports from the Shanghai Stock Exchange; introduced an innovative method leveraging the PageRank algorithm to optimize fair value assessment of investment properties.
 - Drafted verification reports on domestic sales for Huzhou Industry Investment's commercial trade business; gathered and studied fundraising prospectuses to understand their standard content and structural framework.
+
+
+#
 
 
 # Project Experience

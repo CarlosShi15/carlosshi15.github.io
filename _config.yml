@@ -230,10 +230,23 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _Research
+  - scope:
+      path: ""
+      type: Research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
   # _posts
   - scope:
       path: ""

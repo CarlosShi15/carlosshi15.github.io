@@ -11,12 +11,12 @@ redirect_from:
 
 <style>
   .section-spacing {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
   .subsection-spacing {
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
   .honor-item {
     margin-bottom: 15px;
@@ -142,27 +142,27 @@ redirect_from:
 
 <div class="subsection-spacing"></div>
 
-<div class="honor-item">**Honorable Mention – Mathematical Contest in Modeling**<br>May 2025</div>
+<div class="honor-item">Honorable Mention – Mathematical Contest in Modeling<br>May 2025</div>
 
-<div class="honor-item">**Third Place – SUSTech College Cup Soccer Match**<br>May 2025</div>
+<div class="honor-item">Third Place – SUSTech College Cup Soccer Match<br>May 2025</div>
 
-<div class="honor-item">**Provincial Third Prize – Contemporary Undergraduate Mathematical Contest in Modeling**<br>December 2024</div>
+<div class="honor-item">Provincial Third Prize – Contemporary Undergraduate Mathematical Contest in Modeling<br>December 2024</div>
 
-<div class="honor-item">**Successful Participant – Mathematical Contest in Modeling**<br>May 2024</div>
+<div class="honor-item">Successful Participant – Mathematical Contest in Modeling<br>May 2024</div>
 
-<div class="honor-item">**Runner-up – SUSTech College Cup Soccer Match**<br>May 2024</div>
+<div class="honor-item">Runner-up – SUSTech College Cup Soccer Match<br>May 2024</div>
 
-<div class="honor-item">**Provincial Second Prize – Contemporary Undergraduate Mathematical Contest in Modeling**<br>January 2024</div>
+<div class="honor-item">Provincial Second Prize – Contemporary Undergraduate Mathematical Contest in Modeling<br>January 2024</div>
 
-<div class="honor-item">**Provincial Third Prize – Chinese Mathematics Competition**<br>December 2023</div>
+<div class="honor-item">Provincial Third Prize – Chinese Mathematics Competition<br>December 2023</div>
 
 <div class="section-spacing"></div>
 
 # Skills & Interests
 
 <ul class="skills-list" style="list-style-type: none; padding-left: 0;">
-  <li>**Rowing:** Level 3 Amateur Certification</li>
-  <li>**Soccer:** Defensive midfielder</li>
-  <li>**Programming & Tools:** Proficient in MATLAB, Python, SPSS, Microsoft Office, Adobe Photoshop</li>
-  <li>**Languages:** Chinese (Native), English (Proficient)</li>
+  <li>Rowing: Level 3 Amateur Certification</li>
+  <li>Soccer: Defensive midfielder</li>
+  <li>Programming & Tools: Proficient in MATLAB, Python, SPSS, Microsoft Office, Adobe Photoshop</li>
+  <li>Languages: Chinese (Native), English (Proficient)</li>
 </ul>

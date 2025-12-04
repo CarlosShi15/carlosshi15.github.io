@@ -11,7 +11,6 @@ redirect_from:
 
 
 
-
 # Education
 
 ## **Southern University of Science and Technology**  
@@ -27,7 +26,6 @@ redirect_from:
 - Coursework: Differential Geometry, Topology, Analytics, Probability and Statistics
 
 
-<br><br>
 
 
 # Internship Experience
@@ -41,7 +39,7 @@ redirect_from:
 - Drafted verification reports on domestic sales for Huzhou Industry Investment's commercial trade business; gathered and studied fundraising prospectuses to understand their standard content and structural framework.
 
 
-<br><br>
+
 
 # Project Experience
 
@@ -73,7 +71,8 @@ redirect_from:
 - Visualized survey data in MATLAB using a doubly stochastic matrix, demonstrating PageRank logic and weight distribution between "pages".
 - Applied PageRank algorithm in Java to iteratively compute cafeteria scores, quantify popularity rankings, and analyze underlying influencing factors.
 
-<br><br>
+
+
 
 # Extracurricular Activities
 
@@ -109,7 +108,8 @@ redirect_from:
   </tbody>
 </table>
 
-<br><br>
+
+
 
 # Honors & Awards
 
@@ -134,7 +134,8 @@ redirect_from:
 - **Provincial Third Prize – Chinese Mathematics Competition**  
   December 2023
 
-  <br><br>
+
+  
   
 # Skills & Interests
 

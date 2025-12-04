@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-#
+# \phantom{}
 
 # Education
 
@@ -19,7 +19,7 @@ redirect_from:
 
 **Bachelor of Science, Major in Mathematics and Applied Mathematics**  
 - Relevant Coursework: Mathematical Modeling, Nonparametric Statistics, Partial Differential Equations, Numerical Analysis  
-- SUSTech Outstanding Student Scholarship: First Prize (2023, **Top 5%**) | Second Prize (2024, **Top 10%**)
+- SUSTech Outstanding Student Scholarship: First Prize (2023, **Top 5%**) / Second Prize (2024, **Top 10%**)
 
 ## **University of Chinese Academy of Sciences – Sino-French Mathematics Summer School**  
 *Beijing, China | July 2025 – August 2025*  

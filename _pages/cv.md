@@ -15,8 +15,8 @@ redirect_from:
     margin-bottom: 50px;
   }
   .subsection-spacing {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   .honor-item {
     margin-bottom: 15px;

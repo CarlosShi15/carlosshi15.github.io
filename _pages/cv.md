@@ -36,6 +36,7 @@ redirect_from:
 *Shenzhen, China | September 2022 – June 2026 (Expected)*  
 
 **Bachelor of Science, Major in Mathematics and Applied Mathematics**  
+- GPA: 3.84/4.00
 - Relevant Coursework: Mathematical Modeling, Nonparametric Statistics, Partial Differential Equations, Numerical Analysis  
 - SUSTech Outstanding Student Scholarship: First Prize (2023, **Top 5%**) / Second Prize (2024, **Top 10%**)
 

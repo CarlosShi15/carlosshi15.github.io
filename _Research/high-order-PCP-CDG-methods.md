@@ -18,9 +18,10 @@ location: "Shenzhen"
 
 ## Research Contributions  
 
-- Analyzed the admissible state set of the RHD equations, rigorously verifying the convexity and positivity of its equivalent explicit 
-form to provide theoretical guarantees for physical constraint preservation.
-- Established the bijective correspondence between conservative and primitive variables by proving the uniqueness of the positive 
-root for the nonlinear pressure equation via symbolic derivation.
-- Validated the monotonicity and positivity of the flux function with respect to density, ensuring that numerical fluxes remain within 
-the physically admissible range during time evolution.
+- Investigated and analyzed the properties of the admissible state set for the RHD equations, and verified the convexity and positivity 
+of its equivalent explicit form under physical-constraint-preserving conditions using inequality proofs and randomized experiments.
+- Conducted numerical experiments in MATLAB and performed symbolic derivations to prove the uniqueness of the positive root 
+for the nonlinear pressure equation, and established the bijectivity between conservative and primitive variables.
+- Validated monotonicity and positivity of the flux function with respect to density to ensure numerical fluxes remain within the 
+physically admissible range during time evolution, contributing to developing a high-order PCP Central Discontinuous Galerkin 
+numerical method compatible with general equations of state for realistic astrophysical problems.

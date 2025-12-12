@@ -17,7 +17,7 @@ location: "Shenzhen"
 
 ## Key Contributions
 
-- Utilized multilayer perceptron (MLP) neural network to study the staircase phenomenon and $\epsilon$-rank, and analyzed neuron linear independence and initialization effects during experiment training. 
+
 - Reproduced Transnet, Multi-Transnet, and MAE-Transnet models to solve:
   - Elliptic and wave equations
   - Elliptic interface problems  
@@ -28,4 +28,5 @@ location: "Shenzhen"
   - Burger's equation  
   - Steady-state Navier-Stokes equation
 - Proposed a hybrid-Transnet model integrating MLP and Transnet, evaluated its performance through numerical experiments, and designed an iterative Transnet approach for nonlinear PDEs.
-- Currently exploring the **Least-Squares ReLU Neural Network (LSNN)** method (ongoing) and Structured First-Layer Initialization Pre-Training Techniques to Accelerate Training Process Based on $\epsilon$-Rank.
+- Utilized multilayer perceptron (MLP) neural network to study the staircase phenomenon and $\epsilon$-rank, and analyzed neuron linear independence and initialization effects during experiment training. 
+- Currently exploring the Structured First-Layer Initialization Pre-Training Techniques to Accelerate Training Process Based on $\epsilon$-Rank.(on-going)
